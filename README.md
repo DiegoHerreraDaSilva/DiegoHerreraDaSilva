@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%8E%93;Backend+Developer+com+foco+em+Java+%E2%98%95;Apaixonado+por+arquitetura+de+sistemas+%F0%9F%8F%97%EF%B8%8F;Sempre+aprendendo%2C+sempre+construindo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%8E%93;Backend+Developer+com+foco+em+Java+%E2%98%95;Sempre+aprendendo%2C+sempre+construindo+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -15,10 +15,7 @@
 <a href="https://www.linkedin.com/in/diegoherreradasilva" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/DiegoHerreraDaSilva" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="mailto:diego@email.com">
+<a href="mailto:diegoherrerasilva12@email.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
@@ -30,26 +27,13 @@
 
 ## 👾 Sobre mim
 
-```java
-public class Diego extends Developer {
 
-    private final String nome     = "Diego Herrera da Silva";
-    private final String foco     = "Backend Development";
-    private final String curso    = "Ciência da Computação";
-    private final String[] stacks = {"Java", "TypeScript", "React", "PostgreSQL"};
+🎓 Estudante de **Ciência da Computação**  
+☕ Focado em **Desenvolvimento Backend com Java**  
+📚 Aprendendo e evoluindo constantemente em desenvolvimento de software  
+⚙️ Interesse em APIs, bancos de dados, arquitetura backend e tecnologia  
+🎯 Objetivo: construir soluções escaláveis e me tornar um desenvolvedor backend de alto nível
 
-    @Override
-    public String toString() {
-        return """
-            🎓 Estudante de Ciência da Computação
-            ☕ Apaixonado por Java e arquitetura backend
-            🔧 Construindo APIs robustas e escaláveis
-            📚 Sempre explorando novos conceitos e tecnologias
-            💡 Criatividade + Código = Soluções que fazem a diferença
-        """;
-    }
-}
-```
 
 ---
 
@@ -60,10 +44,9 @@ public class Diego extends Developer {
 ### ☕ Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 🎨 Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -83,52 +66,7 @@ public class Diego extends Developer {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoHerreraDaSilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoHerreraDaSilva&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff&border_radius=12"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoHerreraDaSilva&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=FF6B6B&currStreakLabel=ffffff&sideLabels=ffffff&dates=aaaaaa&border_radius=12" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🚀 Projetos em Destaque
-
-<div align="center">
-
-<a href="https://github.com/DiegoHerreraDaSilva/projeto-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoHerreraDaSilva&repo=projeto-1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff&border_radius=12" alt="Projeto 1"/>
-</a>
-<a href="https://github.com/DiegoHerreraDaSilva/projeto-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoHerreraDaSilva&repo=projeto-2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff&border_radius=12" alt="Projeto 2"/>
-</a>
-
-</div>
-
-<details>
-<summary>🔍 <strong>Ver mais projetos</strong></summary>
-
 <br/>
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| 🔐 **API REST Auth** | Sistema de autenticação JWT com refresh tokens | Java, Spring Boot, PostgreSQL |
-| 🛒 **E-commerce Backend** | API completa para loja online com gestão de estoque | Java, Spring Boot, SQL |
-| 📊 **Dashboard React** | Painel administrativo responsivo com gráficos | React, TypeScript, CSS |
-| 🤖 **Bot TypeScript** | Automação de tarefas com integração de APIs | TypeScript, Node.js |
-
-</details>
-
----
 
 ## 🐍 Contribuições
 
@@ -144,32 +82,9 @@ public class Diego extends Developer {
 
 ---
 
-## 📫 Contato
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/diegoherreradasilva" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-Vamos_conectar!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:diego@email.com">
-        <img src="https://img.shields.io/badge/Email-Manda_uma_mensagem!-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 > 💬 *"Código limpo não é escrito por seguir um conjunto de regras. Você sabe que está lendo código limpo quando cada rotina que você lê é praticamente o que você esperava."* — Robert C. Martin
 
 <br/>
-
-![Visitors](https://komarev.com/ghpvc/?username=DiegoHerreraDaSilva&color=7C3AED&style=for-the-badge&label=Visitantes)
 
 <!-- FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
