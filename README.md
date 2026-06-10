@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- BANNER ANIMADO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Diego%20Herrera%20da%20Silva&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20•%20Java%20%7C%20TypeScript%20%7C%20React&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Diego%20Herrera%20da%20Silva&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=FullStack%20Developer%20•%20Java%20%7C%20TypeScript%20%7C%20React&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%8E%93;FullStack+Developer+com+foco+em+Java+%E2%98%95;Sempre+aprendendo%2C+sempre+construindo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%8E%93;FullStack+Developer+com+foco+em+Java+React+%E2%98%95;Sempre+aprendendo%2C+sempre+construindo+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
