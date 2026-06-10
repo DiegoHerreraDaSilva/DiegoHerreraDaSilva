@@ -31,7 +31,7 @@
 🎓 Estudante de **Ciência da Computação**  
 ☕ Focado em **Desenvolvimento Backend com Java**  
 📚 Aprendendo e evoluindo constantemente em desenvolvimento de software  
-⚙️ Interesse em APIs, bancos de dados, arquitetura backend e tecnologia  
+⚙️ Interesse em APIs, bancos de dados, arquitetura backend e IA  
 🎯 Objetivo: construir soluções escaláveis e me tornar um desenvolvedor backend de alto nível
 
 
