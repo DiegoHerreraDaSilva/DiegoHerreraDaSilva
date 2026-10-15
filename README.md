@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- BANNER ANIMADO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Diego%20Herrera%20da%20Silva&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=FullStack%20Developer%20•%20Java%20%7C%20TypeScript%20%7C%20React&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Diego%20Herrera%20da%20Silva&fontSize=42&fontColor=ffffff&fo[...]"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%8E%93;FullStack+com+foco+em+Java+e+React+%E2%98%95;Sempre+aprendendo%2C+sempre+construindo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Comp[...]
 </a>
 
 <br/>
@@ -40,10 +40,6 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-
-### ☕ Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ### 🎨 Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -82,7 +78,7 @@
 
 ---
 
-> 💬 *"Código limpo não é escrito por seguir um conjunto de regras. Você sabe que está lendo código limpo quando cada rotina que você lê é praticamente o que você esperava."* — Robert C. Martin
+> 💬 *"Código limpo não é escrito por seguir um conjunto de regras. Você sabe que está lendo código limpo quando cada rotina que você lê é praticamente o que você esperava."* — Robert C.[...]
 
 <br/>
 
