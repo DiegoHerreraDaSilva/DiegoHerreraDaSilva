@@ -1,120 +1,88 @@
-# Hi, I'm Diego 👋
-
-Software developer passionate about building clean, impactful, and user-focused digital experiences.
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Problem+Solver;Lifelong+Learner;Building+Meaningful+Products" alt="Typing SVG" />
-</p>
-
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Code-TypeScript-3178C6?style=for-the-badge&logo=typescript" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python" alt="Python" />
-  <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=for-the-badge&logo=react" alt="React" />
-  <img src="https://img.shields.io/badge/Framework-Node.js-339933?style=for-the-badge&logo=nodedotjs" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Tools-Docker-2496ED?style=for-the-badge&logo=docker" alt="Docker" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws" alt="AWS" />
+<!-- BANNER ANIMADO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Diego%20Herrera%20da%20Silva&fontSize=42&fontColor=ffffff" />
+
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;FullStack+Developer;Aprendendo+e+evoluindo+constantemente;Construindo+solu%C3%A7%C3%B5es+escal%C3%A1veis" />
+</a>
+
+<br/>
+<br/>
+
+<!-- BADGES DE REDES SOCIAIS -->
+<a href="https://www.linkedin.com/in/diegoherreradasilva" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:diegoherrerasilva12@email.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
 
 </div>
 
-## About Me
+---
 
-- 💡 I enjoy turning ideas into practical, scalable software.
-- 🧠 I’m especially interested in backend systems, product engineering, and developer experience.
-- 🚀 I like building tools that simplify workflows, improve reliability, and create value.
-- 📚 I’m always learning, experimenting, and refining my craft.
+## 👾 Sobre mim
 
-## Tech Stack
-
-### Languages
-- TypeScript
-- JavaScript
-- Python
-- SQL
-- Bash
-
-### Frontend
-- React
-- Next.js
-- HTML
-- CSS
-- Tailwind CSS
-
-### Backend
-- Node.js
-- Express
-- FastAPI
-- REST APIs
-- Authentication & Authorization
-
-### Databases
-- PostgreSQL
-- MySQL
-- MongoDB
-- Redis
-
-### Tools & DevOps
-- Git & GitHub
-- Docker
-- CI/CD
-- Linux
-- AWS
-
-## Featured Projects
-
-### [Project One]
-A modern solution designed to solve a real-world problem with a clean UX and scalable architecture.
-
-- ⚡ Built with React + Node.js
-- 🛠️ Focused on performance and maintainability
-- 📦 Includes automation, API integration, and deployment workflows
-
-### [Project Two]
-An intelligent or productivity-focused application that brings together data, workflows, and user experience.
-
-- 🔍 Problem-driven design
-- 🧩 Modular architecture
-- 🧪 Practical implementation with measurable impact
-
-### [Project Three]
-A personal or open-source project that reflects curiosity, experimentation, and hands-on learning.
-
-- 🚀 Built to explore a new concept or technology
-- 🔬 Iterated through real feedback
-- 📈 Focused on continuous improvement
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegoHerreraDaSilva&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoHerreraDaSilva&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-## What I’m Currently Exploring
-
-- Building scalable and maintainable products
-- Improving engineering workflows and developer tools
-- Exploring cloud-native architecture and automation
-- Learning new frameworks and best practices
-
-## Connect With Me
-
-- 🌐 Portfolio: [your-portfolio-link]
-- 💼 LinkedIn: [your-linkedin-url]
-- 🐦 Twitter/X: [your-twitter-url]
-- 📫 Email: [your-email@example.com]
-
-## Fun Fact
-
-I enjoy turning complex problems into simple, elegant solutions — and I’m always learning by building.
+🎓 Estudante de **Ciência da Computação**  
+☕ Focado em **Desenvolvimento FullStack**  
+📚 Aprendendo e evoluindo constantemente em desenvolvimento de software  
+⚙️ Interesse em APIs, bancos de dados, arquitetura backend e IA  
+🎯 Objetivo: construir soluções escaláveis e me tornar um desenvolvedor backend de alto nível
 
 ---
 
-> “Code is not just about solving problems; it’s about creating experiences that matter.”
+## 🛠️ Tecnologias & Ferramentas
 
-If you want, I can also turn this into a more:
-- minimal and modern version
-- more technical version
-- more personal and creative version
-- version tailored specifically for a backend, frontend, or full-stack profile
+<div align="center">
+
+### 🎨 Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🗄️ Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### ⚙️ DevOps & Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+<br/>
+
+## 🐍 Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiegoHerreraDaSilva/DiegoHerreraDaSilva/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiegoHerreraDaSilva/DiegoHerreraDaSilva/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation das contribuições" src="https://raw.githubusercontent.com/DiegoHerreraDaSilva/DiegoHerreraDaSilva/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+> 💬 *"Código limpo não é escrito por seguir um conjunto de regras. Você sabe que está lendo código limpo quando cada rotina que você lê é praticamente o que você esperava."* — Robert C. Martin
+
+<br/>
+
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+
+</div>
